@@ -23,26 +23,32 @@ The available tables are connected to analyze the full e-commerce process from p
 > This repository uses the data available at [Kaggle](https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database).
 
 
-## Business Questions
+## Dashboard Pages
 
-The dashboard was designed to answer the following business questions:
+### Summary
 
-```
-Summary
-What is the total revenue and number of orders over time? Is the platform growing over time?
+This page provides a high-level summary of business performance, in order to quickly understand overall company performance and sales growth over time.
+
+**Visualizations**: `Overall Business Performance (Total Revenue, Total Customers, Total Orders, Cancellation Rate)`, `Revenue Trending`, `Order Fulfillment', `Average Review Score`, `Most Profitable Product Categories`, `Most Profitable States`
+
+![](./Demos/1.%20Summary%20Tab.gif)
+
+#### Business Questions
+
+> What is the total revenue and number of orders over time? Is the platform growing over time?
 Total Revenue: $15.6M
 Total Orders: 99.44K
 The marketplace experienced consistent growth, suggesting increasing customer demand and platform adoption.
 A sharp drop at the end is noted as incomplete data for the latest month (Sept 2018).
 
-How successful are orders from placement to completion?
+> How successful are orders from placement to completion?
 ~98% of orders are completed, Operational efficiency appears very high
 
-How satisfied are customers based on review ratings?
+> How satisfied are customers based on review ratings?
 Average Review Score: 4.09 / 5 ⭐
 Customers generally report positive experiences
 
-Which product categories generate the most revenue?
+> Which product categories generate the most revenue?
 Top revenue-generating categories:
 Health & Beauty – $1.43M
 Watches & Gifts – $1.29M
@@ -51,7 +57,7 @@ Sports & Leisure – $1.13M
 Computers & Accessories – $1.04M
 Lifestyle and personal products dominate revenue, suggesting consumer demand in everyday-use categories.
 
-Which regions generate the most revenue?
+> Which regions generate the most revenue?
 Top revenue regions:
 São Paulo (largest contributor)
 Rio de Janeiro
@@ -60,18 +66,7 @@ Rio Grande do Sul
 Paraná
 
 Sales are heavily concentrated in Brazil’s most economically active states, especially São Paulo.
-```
 
-
-## Dashboard Pages
-
-### Summary
-
-This page provides a high-level summary of business performance, in order to quickly understand overall company performance and sales growth over time.
-
-![](./Demos/1.%20Summary%20Tab.gif)
-
-**Visualizations**: `Overall Business Performance (Total Revenue, Total Customers, Total Orders, Cancellation Rate)`, `Revenue Trending`, `Order Fulfillment', `Average Review Score`, `Most Profitable Product Categories`, `Most Profitable States`
 
 
 ### Customer & Sales Details
