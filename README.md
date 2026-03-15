@@ -61,6 +61,7 @@ This page provides a high-level summary of business performance, in order to qui
 
 --------------------------
 
+
 ### Customer & Sales Details
 
 This page provides an overview of customer activity, service performance, and key targets.
@@ -84,13 +85,24 @@ This page provides an overview of customer activity, service performance, and ke
 > Orders are often delivered earlier than expected, reflecting efficient logistics operations.
 > Although delivery is generally efficient, some orders still arrive late.
 
+--------------------------
+
 
 ### Product Details
 
+This page provides an overview of product performance and ordering trends.
+
+**Visualizations**: `Most Ordered Product Categories`, `Most Expensive Product Categories`, 'Metric Trending (Metrics: Completed Orders, Customers, Late Deliveries, Orders, Revenue)`
+
 ![](./Demos/3.%20Product%20Details.gif)
+
+1. 
+
 
 
 ### Map
+
+This page provides a map visualizating key metrics `Completed Orders`, `Customers`, `Late Deliveries`, `Orders`, `Revenue`.
 
 ![](./Demos/4.%20Map.gif)
 
