@@ -63,6 +63,8 @@ This page provides a high-level summary of business performance, in order to qui
 
 ### Customer & Sales Details
 
+This page provides a high-level summary of business performance, in order to quickly understand overall company performance and sales growth over time.
+
 ![](./Demos/2.%20Customer%20&%20Service%20Details.gif)
 
 
