@@ -102,7 +102,8 @@ This page provides a high-level summary of business performance, in order to qui
 
 ![](./Demos/1.%20Summary%20Tab.gif)
 
-<!--  #### Business Questions and Insights
+<!--  
+#### Business Questions and Insights
 
 2. How successful are orders from placement to completion?
 
@@ -133,6 +134,7 @@ This page provides an overview of customer activity, service performance, and ke
 
 ![](./Demos/2.%20Customer%20&%20Service%20Details.gif)
 
+<!--  
 #### Business Questions and Insights
 
 1. How strong is customer retention on the platform?
@@ -147,7 +149,7 @@ This page provides an overview of customer activity, service performance, and ke
 4. Are the delivery expectations met?
 > Orders are often delivered earlier than expected, reflecting efficient logistics operations.
 > Although delivery is generally efficient, some orders still arrive late.
-
+-->
 --------------------------
 
 
@@ -159,6 +161,7 @@ This page provides an overview of product performance and ordering trends.
 
 ![](./Demos/3.%20Product%20Details.gif)
 
+<!--  
 #### Business Questions and Insights
 
 1. Which product categories have the highest average selling price?
@@ -169,7 +172,7 @@ This page provides an overview of product performance and ordering trends.
 
 3. Which categories rely on high sales volume rather than high price?
 > Bed Bath Table has high order volume but lower average price.
-
+-->
 --------------------------
 
 
@@ -179,6 +182,7 @@ This page provides a map visualizating key metrics `Completed Orders`, `Customer
 
 ![](./Demos/4.%20Map.gif)
 
+<!--  
 #### Business Questions and Insights
 
 1. Which region generates the highest revenue?
@@ -195,7 +199,7 @@ This page provides a map visualizating key metrics `Completed Orders`, `Customer
 
 5. Which region currently has the lowest market penetration?
 > The Northern region of Brazil shows the lowest market penetration. States such as Amazonas and neighboring northern areas have relatively small revenue markers compared to other parts of the country.
-
+-->
 --------------------------
 
 
