@@ -38,7 +38,9 @@ The available tables are connected to analyze the full e-commerce process from p
 
 </details>
 
-### Order Fulfillment & Customer Satisfaction
+<details>
+<summary><b>Order Fulfillment & Customer Satisfaction</b></summary>
+  
 1. How successful are orders from placement to completion?
 > Approximately 98% of orders are successfully completed, indicating very high operational efficiency across the order processing pipeline.
 
@@ -50,7 +52,11 @@ The available tables are connected to analyze the full e-commerce process from p
 > Average Review Score: 4.09 / 5
 > Customer feedback is largely positive, indicating a generally high level of satisfaction with the purchasing experience.
 
-### Customer Behavior & Retention
+</details>
+
+<details>
+<summary><b>Customer Behavior & Retention</b></summary>
+
 1. How strong is customer retention?
 > Although the platform has a large customer base, the returning customer rate is relatively low.
 > This suggests that most customers make one-time purchases, highlighting an opportunity to improve retention through loyalty programs or targeted marketing.
@@ -58,7 +64,11 @@ The available tables are connected to analyze the full e-commerce process from p
 2. Where are most customers located?
 > Customers are heavily concentrated in major Brazilian economic regions, particularly São Paulo, reflecting stronger purchasing power and higher online shopping activity.
 
-### Product & Category Performance
+</details>
+
+<details>
+<summary><b>Product & Category Performance</b></summary>
+
 1. Which product categories generate the most revenue?
 > Lifestyle-related categories such as Health & Beauty, Bed Bath Table, and Sports & Leisure, along with personal product categories like Watches & Gifts and Computers & Accessories, generate the largest share of revenue.
 These categories reflect strong consumer demand for everyday-use and personal products.
@@ -72,7 +82,11 @@ These categories reflect strong consumer demand for everyday-use and personal pr
 4. Which categories rely on high volume rather than high price?
 > Bed Bath Table generates significant revenue through high order volume despite relatively low average prices, indicating strong mass-market appeal.
 
-### Geographic Market Performance
+</details>
+
+<details>
+<summary><b>Geographic Market Performance</b></summary>
+
 1. Which region generates the highest revenue?
 > The Southeast region of Brazil generates the largest share of revenue, significantly outperforming all other regions.
 > States such as São Paulo, Rio de Janeiro, Minas Gerais, and Espírito Santo account for the majority of sales, highlighting the region as the primary driver of business performance.
@@ -92,7 +106,7 @@ These categories reflect strong consumer demand for everyday-use and personal pr
 > The Northern region of Brazil currently has the lowest market penetration.
 > States such as Amazonas show relatively low revenue compared to the rest of the country, indicating untapped market potential.
 
-
+</details>
 
 
 ## Dashboard Pages
