@@ -25,7 +25,70 @@ The available tables are connected to analyze the full e-commerce process from p
 
 ## Business Questions & Insights
 
-### Sales Performance
+### Platform Growth & Sales Performance
+
+1. How is the platform performing over time?
+> **Total Revenue**: $15.6M
+> **Total Orders**: 99.44K
+> The marketplace shows consistent growth over time, indicating increasing customer demand and strong platform adoption. A noticeable drop in the final month (September 2018) appears due to incomplete data rather than an actual decline in sales.
+
+2. Is revenue driven by high-value purchases or frequent buyers?
+> Customer spending varies significantly, but overall revenue is largely driven by single high-value purchases rather than frequent repeat purchases.
+
+### Order Fulfillment & Customer Satisfaction
+1. How successful are orders from placement to completion?
+> Approximately 98% of orders are successfully completed, indicating very high operational efficiency across the order processing pipeline.
+
+2. Are delivery expectations met?
+> Orders are often delivered earlier than the estimated delivery date, reflecting strong logistics performance.
+> However, a small number of orders still arrive late, suggesting minor areas for improvement in delivery reliability.
+
+3. How satisfied are customers?
+> Average Review Score: 4.09 / 5
+> Customer feedback is largely positive, indicating a generally high level of satisfaction with the purchasing experience.
+
+### Customer Behavior & Retention
+1. How strong is customer retention?
+> Although the platform has a large customer base, the returning customer rate is relatively low.
+> This suggests that most customers make one-time purchases, highlighting an opportunity to improve retention through loyalty programs or targeted marketing.
+
+2. Where are most customers located?
+> Customers are heavily concentrated in major Brazilian economic regions, particularly São Paulo, reflecting stronger purchasing power and higher online shopping activity.
+
+### Product & Category Performance
+1. Which product categories generate the most revenue?
+> Lifestyle-related categories such as Health & Beauty, Bed Bath Table, and Sports & Leisure, along with personal product categories like Watches & Gifts and Computers & Accessories, generate the largest share of revenue.
+These categories reflect strong consumer demand for everyday-use and personal products.
+
+2. Which categories have the highest average selling price?
+> Watches & Gifts have the highest average selling price, positioning them as premium products within the marketplace.
+
+3. Which categories generate high revenue through both price and demand?
+> Health & Beauty performs strongly across both average price and sales demand, making it one of the platform’s most profitable categories.
+
+4. Which categories rely on high volume rather than high price?
+> Bed Bath Table generates significant revenue through high order volume despite relatively low average prices, indicating strong mass-market appeal.
+
+### Geographic Market Performance
+1. Which region generates the highest revenue?
+> The Southeast region of Brazil generates the largest share of revenue, significantly outperforming all other regions.
+> States such as São Paulo, Rio de Janeiro, Minas Gerais, and Espírito Santo account for the majority of sales, highlighting the region as the primary driver of business performance.
+
+2. Which state is the strongest market?
+> São Paulo is the company’s most important market, clearly outperforming all other states in both revenue and customer concentration.
+
+3. Which regions show stable but moderate performance?
+> The Southern region, particularly Paraná and Rio Grande do Sul, shows stable but moderate performance.
+> These states represent reliable secondary markets with steady demand, although they do not match the scale of the Southeast.
+
+4. Which regions present growth opportunities?
+> The Northeast and Central regions show strong potential for expansion.
+> States such as Bahia, Ceará, Goiás, and the Federal District already demonstrate moderate activity, suggesting opportunities for targeted growth strategies.
+
+5. Which region has the lowest market penetration?
+> The Northern region of Brazil currently has the lowest market penetration.
+> States such as Amazonas show relatively low revenue compared to the rest of the country, indicating untapped market potential.
+
 
 
 
@@ -39,14 +102,7 @@ This page provides a high-level summary of business performance, in order to qui
 
 ![](./Demos/1.%20Summary%20Tab.gif)
 
-#### Business Questions and Insights
-
-1. What is the total revenue and number of orders over time? Is the platform growing over time?
-
-> **Total Revenue**: $15.6M
-> **Total Orders**: 99.44K
-> The marketplace experienced consistent growth, suggesting increasing customer demand and platform adoption.
-> Although, a sharp drop is noted due to incomplete data for the latest month (Sept 2018).
+<!--  #### Business Questions and Insights
 
 2. How successful are orders from placement to completion?
 
@@ -64,6 +120,7 @@ This page provides a high-level summary of business performance, in order to qui
 5. Which regions generate the most revenue?
 
 > Sales are heavily concentrated in Brazil’s most economically active states, especially São Paulo.
+-->
 
 --------------------------
 
